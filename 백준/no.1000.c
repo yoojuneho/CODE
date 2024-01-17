@@ -16,4 +16,5 @@ int main(void){
   int result = add(); // add함수의 리턴타입이 int
   printf("%d", result); 
   return 0;
+  
 }
