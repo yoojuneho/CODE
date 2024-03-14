@@ -1,3 +1,4 @@
+#메소드란? 클래스 내에 정의된 어떤 동작, 기능을 하는 코드들의 묶음
 letter = "how are YOU?"
 print(letter)
 
